@@ -43,7 +43,7 @@ To deploy, follow these instructions:
 Coming soon...
 
 
-## Author
+## Authors
 
 - [Abraham Coiman](https://github.com/acoiman)
 - [Verónica Andreo](https://veroandreo.github.io/)

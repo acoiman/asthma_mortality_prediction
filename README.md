@@ -45,7 +45,7 @@ Coming soon...
 
 ## Authors
 
-- [Abraham Coiman](https://github.com/acoiman)
+- [Abraham Coiman](https://acoiman.github.io/)
 - [Verónica Andreo](https://veroandreo.github.io/)
 - [María Fernanda García Ferreyra](https://ar.linkedin.com/in/fernanda-garcia-ferreyra)
 
